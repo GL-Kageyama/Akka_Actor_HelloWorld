@@ -1,11 +1,12 @@
 # Akka Actor HelloWorld
 
 ## Akka
-
+Akka is a free and open-source toolkit and runtime simplifying the construction of concurrent and distributed applications on the JVM.   
 
 ## Actor
-
-
+An actor is a lightweight process with four operations: create, send, come, and supervise.  
+The actors send messages to each other and process asynchronously.  
+　
 ## Code
 ```Scala
 import akka.actor.typed.scaladsl.Behaviors
