@@ -32,11 +32,11 @@ object Main extends App {
 ```
 
 ## Output Sample
-// $ cd hello-world/
-// $ sbt
-// ...
-// $ ~run
-// ...
-// Hello World !
-// Hello Scala !
-// Hello Akka !
+// $ cd hello-world/  
+// $ sbt  
+// ...  
+// $ ~run  
+// ...  
+// Hello World !  
+// Hello Scala !  
+// Hello Akka !  
