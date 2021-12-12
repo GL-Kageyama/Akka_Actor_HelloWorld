@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/GL-Kageyama/ScalaTest/hello-world/target/scala-2.13/hello-akka_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/GL-Kageyama/ScalaTest/hello-world/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/GL-Kageyama/ScalaTest/hello-world/target/scala-2.13/classes/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/GL-Kageyama/ScalaTest/hello-world/target/scala-2.13/classes/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintHello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/GL-Kageyama/ScalaTest/hello-world/target/scala-2.13/classes/PrintHello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/GL-Kageyama/ScalaTest/hello-world/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintHello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/GL-Kageyama/ScalaTest/hello-world/target/scala-2.13/classes/PrintHello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/GL-Kageyama/ScalaTest/hello-world/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
